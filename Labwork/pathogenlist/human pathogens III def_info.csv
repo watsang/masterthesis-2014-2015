@@ -1,0 +1,63 @@
+,Bacterial species,Code,Strain Number Bel,Biological origin,Conditions for growth on solid media,Bio group,Infection
+23,Corynebacterium urealyticum,E3,LMG 19041 ,"patient, urine","Medium 14 or 151, 37°C",2,_
+3,Mycobacterium terrae,C8,LMG 10394 ,Sputum and gastric lavage specimen,"Medium 336, 37°C",1,Y
+26,Mycobacterium peregrinum,F1,LMG 19256,bronchial aspiration of a child,"Medium 185, 28°C",1,Y
+55,Mycobacterium smegmatis or Mycobacterium friedmannii,C10&C9,LMG 8190 & LMG 10267 ,,"Medium 126, 37°C",1 BIO/2 BIO,_
+46,Nocardia asteroides,C4,LMG 4062 ,,"Medium 78, 28°C",2,Y
+47,Nocardia farcinica,B10,LMG 4079  ,,"Medium 78, 37°C",2,Y
+49,Rhodococcus equi (Corynebacterium equi),C2&E6,LMG 7335 & LMG 18452  ,,"Medium 1, 28°C",2,_
+19,Cellulosimicrobium cellulans ,E1,LMG 16121,,"Medium 1 or 185, 28°C",1,_
+9,Elizabethkingia meningoseptica,E4,LMG 12279  ,"premature infant, cerebrospinal fluid","Medium 1 or 185, 28°C",2,_
+45,Empedobacter brevis,A6,LMG 4011,"human, bronchial secretions","Medium 1, 30°C",1,_
+56,Chryseobacterium indologenes(Flavobacteriumindologenes),,LMG 8337   ,"human, trachea at autopsy","Medium 1 or 185, 28°C",2,_
+59,Vagococcus fluvialis,D4,LMG 9464  ,"chicken, faeces","Medium 217, 30°C",1,_
+2,Staphylococcus epidermidis,D5,LMG 10273  ,,"Medium 1, 37°C",1,Y-
+15,Staphylococcus schleiferi subsp.schleiferi,D10,LMG 13347  ,jugular catheter,"Medium 1, 28°C",2,_
+16,Staphylococcus haemolyticus,E8,LMG 13349,"Human, skin","Medium 1, 28°C",2,Y-
+17,Staphylococcus warneri,D9,LMG 13354 ,"Human, skin","Medium 1, 28°C",1,_
+24,Staphylococcus caprae,E7,LMG 19123  ,goat milk,"Medium 1, 37°C",1,_
+25,Staphylococcus schleiferi subsp.coagulans,&F3,LMG 19137 & LMG 22205 ,"dog, skin","Medium 185, 37°C",2,_
+27,Staphylococcus simulans,F6,LMG 20177,Oryza sativa,"Medium 1, 28°C",Not Yet assigned,Y
+28,Staphylococcus xylosus,E9,LMG 20180 ,Oryza sativa,"Medium 1, 37°C",Not Yet assigned,_
+33,Staphylococcus aureus subsp.anaerobius,F2,LMG 22203,"young sheep, abscess","Medium 151, 28°C",2,Y-
+54,Staphylococcus aureus subsp.aureus,,LMG 8064,"Human, lesion","Medium 1, 37°C",2,Y-
+58,Staphylococcus pseudintermedius,D3,LMG 9079  ,"dog with paratoid salivary adentitis, blood culture","Medium 185, 28°C",2,_
+57,Lactococcus garvieae (Streptococcus garvieae),D6,LMG 8501,"Cow 830, mastitis sample","Medium 66, 30°C",1,_
+60,Streptococcus uberis,D2,LMG 9465,,"Medium 22 or 66, 37°C",1,_
+22,Afipia felis,E2,LMG 18884   ,"patient with cat scratch disease, lymph node tissue","Medium 115 or 14, 28°C",2,Y-
+10,Alcaligenes faecalis subsp.faecalis,A9,LMG 1229  ,,"Medium 1, 28°C",Opportunistic pathogen,_
+11,Bordetella bronchiseptica,,LMG 1232 ,"dog, lung","Medium 1 or 185, 37°C",2,_
+20,Bordetella parapertussis,B4,LMG 1816  ,patient suffering from whooping cough,"Medium 185, 37°C",2,_
+21,Bordetella hinzii,A8,LMG 1872 ,sputum,"Medium 185, 37°C",2,_
+1,Oligella urethralis (Moraxella urethralis),B1,LMG 1015 ,Ear,"Medium 1 or 7, 28°C",1,_
+8,Burkholderia cepacia ,A10,LMG 1222   ,Allium cepa,"Medium 14, 28°C",Opportunistic pathogen,_
+13,Chromobacterium violaceum,A2,LMG 1267   ,freshwater,"Medium 1, 25°C",2,Y-
+14,Aeromonas encheleia,E5,LMG 13061 ,artesian well,"Medium 185, 30°C",1,_
+18,Aeromonas bestiarum,E10,LMG 13444 ,Diseased fish,"Medium 185, 30°C",1,_
+44,Aeromonas eucrenophila,C5,LMG 3774 ,"carp, ascites","Medium 185, 30°C",1,_
+37,Edwardsiella tarda,B7,LMG 2793,"Human, faeces","Medium 1, 37°C",2,_
+50,Edwardsiella ictaluri,B9,LMG 7860  ,"channel catfish (Ictalurus punctatus), enteric septicemia","Medium 22, 28°C",2,_
+29,Enterobacter aerogenes,A1,LMG 2094   ,Sputum,"Medium 1, 30°C",2,_
+34,Enterobacter hormaechei,F5&F4,LMG 25826 & LMG 25827,"75-year-old male with metastatic lung cancer, blood","Medium 14, 28°C",2,_
+35,Enterobacter cloacae subsp.cloacae(Enterobacter cloacae),A3,LMG 2783,Cerebrospinal fluid,"Medium 1, 30°C",2,Y-
+32,Escherichia albertii,F7,LMG 20972  ,"diarrhoeal child, stool","Medium 14, 28°C",2,_
+51,Escherichia fergusonii,,LMG 7866,"1-year-old boy, faeces","Medium 1, 30°C",2,_
+39,Klebsiella oxytoca,B8,LMG 3055,Pharyngeal tonsil,"Medium 1, 30°C",2,Y-
+30,Morganella morganii subsp.morgani,A7&D1,LMG 2097 & LMG 7874 ,"green-billed toucan (Ramphastos dicolorus), dysentery","Medium 1, 37°C",2,_
+31,Proteus morgani,,LMG 2097 & LMG 7874  ,"green-billed toucan (Ramphastos dicolorus), dysentery","Medium 1, 37°C",2,Y
+48,Plesiomonas shigelloides,,LMG 4240,,"Medium 1, 37°C",2,_
+38,Proteus mirabilis,C3,LMG 2954,,"Medium 1, 37°C",2,Y-
+52,Proteus inconstans____Providencia alcalifaciens/stuartii,,LMG 7878 ,Faeces,"Medium 1, 37°C",2,_
+53,Providencia alcalifaciens____Proteus inconstans,C7,LMG 7878 ,Faeces,"Medium 1, 37°C",2,_
+40,Raoultella planticola,B5,LMG 3056  ,soil,"Medium 1, 30°C",2,Y-
+41,Raoultella terrigena ,B6,LMG 3203,used water,"Medium 1, 30°C",1,Y-
+36,Serratia marcescens subsp.marcescens,C1,LMG 2792,pond water,"Medium 1, 28°C",Opportunistic pathogen,Y
+5,Shigella flexneri,D7&D8,LMG 10472 & LMG 21935,,"Medium 1, 37°C",2,_
+6,Shigella sonnei,,LMG 10473,"human, faeces","Medium 1, 37°C",2,_
+4,Moraxella osloensis,,LMG 1043,Probably urine,"Medium 74 or 14, 33°C",2,_
+7,Moraxella catarrhalis,A4,LMG 1133 ,,"Medium 22 or 3, 33°C",2,_
+62,Moraxella(Subgenus Moraxella) bovis,,LMG 986,"Cattle, pinkeye","Medium 3 or 7, 33°C",1,Y-
+42,Actinobacillus equuli subsp.equuli,B3,LMG 3736  ,"Foal dead from sleepy-foal disease, blood","Medium 1 or 185, 30°C",Not Yet assigned,_
+43,Actinobacillus lignieresii,C6,LMG 3737 ,"Bovine, lesions","Medium 4, 37°C",Not Yet assigned,_
+12,Pseudomonas aeruginosa,A5,LMG 1242,,"Medium 2, 28°C",2,Y
+61,"Stenotrophomonas maltophilia (Pseudomonas maltophilia,Xanthomonas maltophilia)",B2,LMG 957  ,"Human, blood culture","Medium 9 or 14, 28°C",1,_

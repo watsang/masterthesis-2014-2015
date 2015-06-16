@@ -1,0 +1,8 @@
+There are duplicates in the compound database abbreviations!
+
+PRIMARY.NAME
+fe. galactose 
+
+ABBREVIATION
+* mqn8
+* 2dmmq8

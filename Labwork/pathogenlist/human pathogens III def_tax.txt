@@ -1,0 +1,63 @@
+Bacterial species	Phylum	Class	Order	Family	Genus	\\
+Corynebacterium urealyticum	Actinobacteria	Actinobacteridae	Actinomycetales	Corynebacterineae	Corynebacteriaceae	\\
+Mycobacterium terrae	Actinobacteria	Actinobacteridae	Actinomycetales	Corynebacterineae	Mycobacteriaceae	\\
+Mycobacterium peregrinum	Actinobacteria	Actinobacteridae	Actinomycetales	Corynebacterineae	Mycobacteriaceae	\\
+Mycobacterium smegmatis or Mycobacterium friedmannii	Actinobacteria	Actinobacteridae	Actinomycetales	Corynebacterineae	Mycobacteriaceae	\\
+Nocardia asteroides	Actinobacteria	Actinobacteridae	Actinomycetales	Corynebacterineae	Nocardiaceae	\\
+Nocardia farcinica	Actinobacteria	Actinobacteridae	Actinomycetales	Corynebacterineae	Nocardiaceae	\\
+Rhodococcus equi (Corynebacterium equi)	Actinobacteria	Actinobacteridae	Actinomycetales	Corynebacterineae	Nocardiaceae	\\
+Cellulosimicrobium cellulans 	Actinobacteria	Actinobacteridae	Actinomycetales	Micrococcineae	Promicromonosporaceae	\\
+Elizabethkingia meningoseptica	Bacteroidetes / Chlorobi group	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	\\
+Empedobacter brevis	Bacteroidetes / Chlorobigroup	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	\\
+Chryseobacterium indologenes(Flavobacteriumindologenes)	Bacteroidetes / Chlorobigroup	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	\\
+Vagococcus fluvialis	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Vagococcus	\\
+Staphylococcus epidermidis	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	\\
+Staphylococcus schleiferi subsp.schleiferi	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	\\
+Staphylococcus haemolyticus	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	\\
+Staphylococcus warneri	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	\\
+Staphylococcus caprae	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	\\
+Staphylococcus schleiferi subsp.coagulans	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	\\
+Staphylococcus simulans	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	\\
+Staphylococcus xylosus	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	\\
+Staphylococcus aureus subsp.anaerobius	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	\\
+Staphylococcus aureus subsp.aureus	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	\\
+Staphylococcus pseudintermedius	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	\\
+Lactococcus garvieae (Streptococcus garvieae)	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	\\
+Streptococcus uberis	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	\\
+Afipia felis	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Afipia	\\
+Alcaligenes faecalis subsp.faecalis	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Alcaligenes	\\
+Bordetella bronchiseptica	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Bordetella	\\
+Bordetella parapertussis	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Bordetella	\\
+Bordetella hinzii	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Bordetella	\\
+Oligella urethralis (Moraxella urethralis)	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Oligella	\\
+Burkholderia cepacia 	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	\\
+Chromobacterium violaceum	Proteobacteria	Betaproteobacteria	Neisseriales	Chromobacteriaceae	Chromobacterium group	\\
+Aeromonas encheleia	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	\\
+Aeromonas bestiarum	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	\\
+Aeromonas eucrenophila	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	\\
+Edwardsiella tarda	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Edwardsiella	\\
+Edwardsiella ictaluri	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Edwardsiella	\\
+Enterobacter aerogenes	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter	\\
+Enterobacter hormaechei	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter	\\
+Enterobacter cloacae subsp.cloacae(Enterobacter cloacae)	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter	\\
+Escherichia albertii	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia	\\
+Escherichia fergusonii	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia	\\
+Klebsiella oxytoca	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Klebsiella	\\
+Morganella morganii subsp.morgani	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Morganella	\\
+Proteus morgani	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Morganella	\\
+Plesiomonas shigelloides	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Plesiomonas	\\
+Proteus mirabilis	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Proteus	\\
+Proteus inconstans____Providencia alcalifaciens/stuartii	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Proteus	\\
+Providencia alcalifaciens____Proteus inconstans	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Providencia	\\
+Raoultella planticola	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Raoultella	\\
+Raoultella terrigena 	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Raoultella	\\
+Serratia marcescens subsp.marcescens	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Serratia	\\
+Shigella flexneri	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Shigella	\\
+Shigella sonnei	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Shigella	\\
+Moraxella osloensis	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	\\
+Moraxella catarrhalis	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	\\
+Moraxella(Subgenus Moraxella) bovis	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	\\
+Actinobacillus equuli subsp.equuli	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Actinobacillus	\\
+Actinobacillus lignieresii	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Actinobacillus	\\
+Pseudomonas aeruginosa	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	\\
+"Stenotrophomonas maltophilia (Pseudomonas maltophilia,Xanthomonas maltophilia)"	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	\\

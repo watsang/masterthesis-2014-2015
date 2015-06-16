@@ -1,0 +1,16 @@
+\begin{thebibliography}{1}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Wittebolle et~al.(2009)Wittebolle, Marzorati, Clement, Balloi,
+  Daffonchio, Heylen, De~Vos, Verstraete, and Boon]{wittebolle2009initial}
+Lieven Wittebolle, Massimo Marzorati, Lieven Clement, Annalisa Balloi, Daniele
+  Daffonchio, Kim Heylen, Paul De~Vos, Willy Verstraete, and Nico Boon.
+\newblock Initial community evenness favours functionality under selective
+  stress.
+\newblock \emph{Nature}, 458\penalty0 (7238):\penalty0 623--626, 2009.
+
+\end{thebibliography}

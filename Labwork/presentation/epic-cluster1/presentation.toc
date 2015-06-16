@@ -1,0 +1,5 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Research Question}{5}{0}{2}
+\beamer@sectionintoc {3}{Material and Methods}{10}{0}{3}
+\beamer@sectionintoc {4}{Results}{15}{0}{4}
