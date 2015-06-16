@@ -8,6 +8,10 @@ Literature_research
 ###################################
 find . -size +100000 | cat >> .gitignore
 
+# Image files #
+###############
+*.png
+
 # Compiled source #
 ###################
 *.com
