@@ -2,6 +2,11 @@
 ############################
 # Ignore directory
 thesis-writings
+Literature_research
+
+# Ignore files larger than 100 mb #
+###################################
+find . -size +100000 | cat >> .gitignore
 
 # Compiled source #
 ###################
