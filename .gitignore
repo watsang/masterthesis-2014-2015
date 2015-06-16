@@ -1,5 +1,7 @@
 # Specificly ignored Files #
 ############################
+# Ignore directory
+thesis-writings
 
 # Compiled source #
 ###################
