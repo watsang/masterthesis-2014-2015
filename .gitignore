@@ -2,7 +2,7 @@
 ############################
 # Ignore directory
 thesis-writings
-Literature_research
+Literature_research/*
 !/Literature_research/README.md
 
 # Ignore files larger than 100 mb #
