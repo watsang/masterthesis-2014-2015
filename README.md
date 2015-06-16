@@ -15,7 +15,7 @@ During the first semester I primarily worked in the lab. Bacterial communities w
 
 In the second semester, the data from the experiments was analysed. External data was pulled from the RAST-database and evaluated in the analysis. Finally, a simple recommender engine was built. The files can be found in [Modelling](./Modelling).
 
-For my thesis I had to write a literature review on diversity indices in microbial ecology. I wouldn't have understood the literature nearly as well without some helpful pointers. 
+I wouldn't have understood the literature nearly as well without some helpful pointers. Folks who are interested to learn more about the role of diversity indices in microbial ecology can find this in [Literature_research](./Literature_research)
 
 
 
