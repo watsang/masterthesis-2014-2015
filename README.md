@@ -13,7 +13,7 @@ This repository consists of a part about Labwork and a part about Modelling.
 
 During the first semester I invaded bacterial communities with one pathogen each time. All the files for the labwork can be found in [Labwork](./Labwork). 
 
-In the second semester, the data gathered during the invasion-experiments was statistically analysed. Bacterial data was pulled from the RAST-database and evaluated in the analysis. Finally, a simple recommender engine was built. The files can be found in [Modelling](./Modelling).
+In the second semester, the data from the experiments was analysed. External data was pulled from the RAST-database and evaluated in the analysis. Finally, a simple recommender engine was built. The files can be found in [Modelling](./Modelling).
 
 
 
