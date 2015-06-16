@@ -1,8 +1,7 @@
-Assessing pathogen invasion based on community evenness and metabolic similarity
+Guide to diversity indices and more in microbial ecology
 ============
 
-This is a guide through all my work for my master-thesis in the schoolyear 2014-2015.
-The master thesis is a result of a collaboration between [LabMET] (http://www.labmet.ugent.be/) and [KERMIT] (http://www.kermit.ugent.be/) at Ghent University.
+When I started reading the literature surrounding diversity indices in microbial ecology, I received some really helpful articles from [Aisling Daly](http://www.kermit.ugent.be/phd%20students.php?navigatieId=92&categorieId=11). 
 
 These files might be interesting for:
 
