@@ -1,7 +1,12 @@
-Guide to diversity indices and more in microbial ecology
+Guide to diversity indices and more
 ============
 
 When I started reading the literature surrounding diversity indices in microbial ecology, I received some really helpful articles from [Aisling Daly](http://www.kermit.ugent.be/phd%20students.php?navigatieId=92&categorieId=11). 
+
+Microbial ecology studies the relationships between micro-organisms and their environment. They can be described in terms of diversity indices.
+
+## Diversity indices.
+=====================
 
 These files might be interesting for:
 
