@@ -3,10 +3,10 @@ Guide to diversity indices and more
 
 When I started reading the literature on diversity indices in microbial ecology, I received some really helpful articles from [Aisling Daly](http://www.kermit.ugent.be/phd%20students.php?navigatieId=92&categorieId=11). The recommended list filtered out a bunch of confusing papers. It also helped in gaining a better understanding on the issues on diversity indices in ecology.
 
-# The Objective
-The goal is to manipulate the resistance of a microbial community by changing the composition of a community. 
+## The Objective
+Change a microbial community's resistance to invasion by varying the species distribution of a community. 
 
-# General Background
+## General Background
 [Microbial Resource Management](http://onlinelibrary.wiley.com/doi/10.1002/elsc.200620176/abstract) -- the paper lays the foundation for manipulating microbial communities from an ecological perspective. 
 
 
