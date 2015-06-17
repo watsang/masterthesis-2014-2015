@@ -1,7 +1,7 @@
 Guide to diversity indices and more
 ============
 
-When I started reading the literature on diversity indices in microbial ecology, I received some really helpful articles from [Aisling Daly](http://www.kermit.ugent.be/phd%20students.php?navigatieId=92&categorieId=11). The recommended list filtered out a bunch of confusing papers. It also helped in gaining a better understanding on the issues on diversity indices in ecology.
+When I started reading the literature on diversity indices in microbial ecology, I received some really helpful articles from [Aisling Daly](http://www.kermit.ugent.be/phd%20students.php?navigatieId=92&categorieId=11). The recommended list filtered out a bunch of confusing papers. It also helped me to understand the issues on diversity indices in ecology.
 
 For folks who want to get into the biodiversity debates in ecology, the list of articles below may be a good start.
 
