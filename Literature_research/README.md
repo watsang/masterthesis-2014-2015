@@ -3,6 +3,8 @@ Guide to diversity indices and more
 
 When I started reading the literature on diversity indices in microbial ecology, I received some really helpful articles from [Aisling Daly](http://www.kermit.ugent.be/phd%20students.php?navigatieId=92&categorieId=11). The recommended list filtered out a bunch of confusing papers. It also helped in gaining a better understanding on the issues on diversity indices in ecology.
 
+For folks who want to get into the biodiversity debates in ecology, the list of articles below may be a good start.
+
 ## My thesis' objective
 Change a microbial community's resistance to invasion by varying the species distribution of a community. 
 
@@ -12,9 +14,6 @@ Change a microbial community's resistance to invasion by varying the species dis
 [Synthetic Microbial Communities](http://www.ncbi.nlm.nih.gov/pubmed/24274586) -- Instead of sampling microbial communities from nature, assembling microbial communities is a good way to perform controlled experiments. 
 
 [Practical tools for microbial ecology](http://www.ncbi.nlm.nih.gov/pubmed/18331337) -- some useful parameters to describe microbial communities. One meaningful parameter is species diversity index and evenness. 
-
-
-For people who want to get into the biodiversity debates in ecology, the list of articles below may be a good start.
 
 ## Diversity indices.
 =====================
