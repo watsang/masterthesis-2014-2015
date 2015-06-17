@@ -3,12 +3,20 @@ Guide to diversity indices and more
 
 When I started reading the literature on diversity indices in microbial ecology, I received some really helpful articles from [Aisling Daly](http://www.kermit.ugent.be/phd%20students.php?navigatieId=92&categorieId=11). The recommended list filtered out a bunch of confusing papers. It also helped in gaining a better understanding on the issues on diversity indices in ecology.
 
+# The Objective
+The goal is to manipulate the resistance of a microbial community by changing the composition of a community. 
+
+# General Background
+[Microbial Resource Management](http://onlinelibrary.wiley.com/doi/10.1002/elsc.200620176/abstract) -- the paper lays the foundation for manipulating microbial communities from an ecological perspective. 
+
+
+
 For people who want to get into the biodiversity debates in ecology, the list of articles below may be a good start.
 
 ## Diversity indices.
 =====================
 
-The problem? There are numerous species diversity indices and there is no clear distinction about their usage or suitability fo
+The problem of diversity indices? There are numerous species diversity indices and there is no clear distinction about their usage or suitability fo
 Which diversity index to choose? 
 
 ## Evenness
