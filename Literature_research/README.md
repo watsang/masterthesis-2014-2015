@@ -28,11 +28,9 @@ A good start for learning about evenness indices is [A Consumer's Guide to Evenn
 ## Alpha- and Beta diversity
 
 [Commentary: do we have a consistent terminology for species
-diversity? we are on the way.](http://www.ncbi.nlm.nih.gov/pubmed/21938639) addresses the issues with this terminology. Personally I would avoid using beta-diversity as much as possible. 
+diversity? we are on the way.](http://www.ncbi.nlm.nih.gov/pubmed/21938639) addresses the issues with this terminology. Personally I would avoid using beta-diversity altogether. 
 
 ## True diversity
-[Diversity and Evenness](http://www.esajournals.org/doi/abs/10.2307/1934352) -- Hill proposes true diversity, or the effective number of types. 
-
 [Partitioning diversity into independent alpha and beta components](http://www.esajournals.org/doi/abs/10.1890/06-1736.1) - points out the issues beta-diversity and why Hill's work could solve some issues.
 
 ## Similarity-sensitive diversity
