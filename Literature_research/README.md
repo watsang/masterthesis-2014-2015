@@ -3,7 +3,7 @@ Guide to diversity indices and more
 
 When I started reading the literature on diversity indices in microbial ecology, I received some really helpful articles from [Aisling Daly](http://www.kermit.ugent.be/phd%20students.php?navigatieId=92&categorieId=11). The recommended list filtered out a bunch of confusing papers. It also helped me to understand the issues on diversity indices in ecology.
 
-For folks who want to get into the biodiversity debates in ecology, the list of articles below may be a good start.
+For folks who want to get into the biodiversity debates in ecology, the list of articles below may be a good start. If some fundamental papers are missing, feel free to add suggestions!
 
 ## My thesis' objective
  The goal was to explore the optimal management of microbial resources (Microbial Resource Management) with regards to pathogen invasion. The aim was to evaluate whether a microbial community's resistance to invasion can be manipulated by varying the species distribution of a community. Primarily [Pielou's Evenness](http://onlinelibrary.wiley.com/doi/10.1002/bimj.4710200616/abstract) (for more information: [Species evenness](http://www.jstor.org/stable/3545749)) was used to set-up the design, but afterwards [a similarity-sensitive diversity](http://www.esajournals.org/doi/abs/10.1890/10-2402.1) was used in the analysis. 
@@ -31,13 +31,20 @@ For folks who want to get into the biodiversity debates in ecology, the list of 
 diversity? we are on the way.](http://www.ncbi.nlm.nih.gov/pubmed/21938639) addresses the issues with this terminology. Personally I would avoid using beta-diversity altogether. 
 
 ## True diversity
-* [The Relation between Evenness and Diversity](http://www.mdpi.com/1424-2818/2/2/207) - points out the issues on beta-diversity and why [Hill's work](http://www.esajournals.org/doi/abs/10.2307/1934352) could solve some issues.
+* [The Relation between Evenness and Diversity](http://www.mdpi.com/1424-2818/2/2/207) - points out the issues of beta-diversity and why [Hill's work](http://www.esajournals.org/doi/abs/10.2307/1934352) could solve some issues.
 
 ## Similarity-sensitive diversity
 * [Measuring diversity: the importance of species similarity](http://www.esajournals.org/doi/abs/10.1890/10-2402.1) - the crux of my thesis. I incorporate similarity data into my analysis and evaluate its usefulness. 
 
 
 ## Extra reading
+### Microbial Ecology
+* [Initial community evenness favours functionality
+under selective stress](users.ugent.be/~wverstra/research/Labmet%20publicatie%20922%20Wittebolle%20...%20Nature%20458,%20623-626.pdf)
+
+* [The role of ecological theory in microbial ecology](pages.uoregon.edu/green/publications/Prosser%20et%20al.%202007%20Nature%20Reviews%20Micro_Role%20theory.pdf)
+
+### More on Diversity indices
 * [A consistent terminology for quantifying species diversity? Yes, it does exist.] (http://www.ncbi.nlm.nih.gov/pubmed/20978798)
 
 * [Commentary: do we have a consistent terminology for species diversity? Yes, if we choose to use it.](http://link.springer.com/article/10.1007%2Fs00442-011-2128-4)
