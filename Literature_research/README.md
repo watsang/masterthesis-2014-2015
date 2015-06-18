@@ -9,42 +9,42 @@ For folks who want to get into the biodiversity debates in ecology, the list of 
  The goal was to explore the optimal management of microbial resources (Microbial Resource Management) with regards to pathogen invasion. The aim was to evaluate whether a microbial community's resistance to invasion can be manipulated by varying the species distribution of a community. Primarily [Pielou's Evenness](http://onlinelibrary.wiley.com/doi/10.1002/bimj.4710200616/abstract) (for more information: [Species evenness](http://www.jstor.org/stable/3545749)) was used to set-up the design, but afterwards [a similarity-sensitive diversity](http://www.esajournals.org/doi/abs/10.1890/10-2402.1) was used in the analysis. 
 
 ## General Background
-[Microbial Resource Management](http://onlinelibrary.wiley.com/doi/10.1002/elsc.200620176/abstract) -- the paper lays the foundation for manipulating microbial communities from an ecological perspective. 
+* [Microbial Resource Management](http://onlinelibrary.wiley.com/doi/10.1002/elsc.200620176/abstract) -- the paper lays the foundation for manipulating microbial communities from an ecological perspective. 
 
-[Synthetic Microbial Communities](http://www.ncbi.nlm.nih.gov/pubmed/24274586) -- Instead of sampling microbial communities from nature, assembling microbial communities is a good way to perform controlled experiments. 
+* [Synthetic Microbial Communities](http://www.ncbi.nlm.nih.gov/pubmed/24274586) -- Instead of sampling microbial communities from nature, assembling microbial communities is a good way to perform controlled experiments. 
 
-[Practical tools for microbial ecology](http://www.ncbi.nlm.nih.gov/pubmed/18331337) -- some useful parameters to describe microbial communities. One meaningful parameter is species diversity index and evenness. 
+* [Practical tools for microbial ecology](http://www.ncbi.nlm.nih.gov/pubmed/18331337) -- some useful parameters to describe microbial communities. One meaningful parameter is species diversity index and evenness. 
 
 ## Species Diversity
 
-An overview of the traditional species diversity can be found in: [Measuring Biological Diversity](www2.ib.unicamp.br/profs/thomas/NE002_2011/maio10/Magurran%202004%20c2-4.pdf). The problem of diversity indices? There are numerous species diversity indices and each expresses different things. So which diversity index is most useful? (In general Shannon-Wiener Index and Simpson index D is used.) 
+* An overview of the traditional species diversity can be found in: [Measuring Biological Diversity](www2.ib.unicamp.br/profs/thomas/NE002_2011/maio10/Magurran%202004%20c2-4.pdf). The problem of diversity indices? There are numerous species diversity indices and each expresses different things. So which diversity index is most useful? (In general Shannon-Wiener Index and Simpson index D is used.) 
 
-[Diversity, biotic and similarity indices](http://www.sciencedirect.com/science/article/pii/0043135484901647) -- an article that may be helpful, although it focuses mainly on aquatic ecosystems. 
+* [Diversity, biotic and similarity indices](http://www.sciencedirect.com/science/article/pii/0043135484901647) -- an article that may be helpful, although it focuses mainly on aquatic ecosystems. 
 
 ## Species Evenness
 
-A good start for learning about evenness indices is [A Consumer's Guide to Evenness Indices](http://www.jstor.org/stable/3545749).
+* [A Consumer's Guide to Evenness Indices](http://www.jstor.org/stable/3545749) - a good start to learn more about evenness indices.
 
 ## Alpha- and Beta diversity
 
-[Commentary: do we have a consistent terminology for species
+* [Commentary: do we have a consistent terminology for species
 diversity? we are on the way.](http://www.ncbi.nlm.nih.gov/pubmed/21938639) addresses the issues with this terminology. Personally I would avoid using beta-diversity altogether. 
 
 ## True diversity
-[The Relation between Evenness and Diversity](http://www.mdpi.com/1424-2818/2/2/207) - points out the issues beta-diversity and why [Hill's work](http://www.esajournals.org/doi/abs/10.2307/1934352) could solve some issues.
+* [The Relation between Evenness and Diversity](http://www.mdpi.com/1424-2818/2/2/207) - points out the issues on beta-diversity and why [Hill's work](http://www.esajournals.org/doi/abs/10.2307/1934352) could solve some issues.
 
 ## Similarity-sensitive diversity
-[Measuring diversity: the importance of species similarity](http://www.esajournals.org/doi/abs/10.1890/10-2402.1) - the crux of my thesis. I incorporate similarity data into my analysis and evaluate its usefulness. 
+* [Measuring diversity: the importance of species similarity](http://www.esajournals.org/doi/abs/10.1890/10-2402.1) - the crux of my thesis. I incorporate similarity data into my analysis and evaluate its usefulness. 
 
 
 ## Extra reading
-[A consistent terminology for quantifying species diversity? Yes, it does exist.] (http://www.ncbi.nlm.nih.gov/pubmed/20978798)
+* [A consistent terminology for quantifying species diversity? Yes, it does exist.] (http://www.ncbi.nlm.nih.gov/pubmed/20978798)
 
-[Commentary: do we have a consistent terminology for species diversity? Yes, if we choose to use it.](http://link.springer.com/article/10.1007%2Fs00442-011-2128-4)
+* [Commentary: do we have a consistent terminology for species diversity? Yes, if we choose to use it.](http://link.springer.com/article/10.1007%2Fs00442-011-2128-4)
 
-[A diversity of beta diversities: straightening up a concept gone awry. Part 1. Defining beta diversity as a function of alpha and gamma diversity.](http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0587.2009.05880.x/abstract)
+* [A diversity of beta diversities: straightening up a concept gone awry. Part 1. Defining beta diversity as a function of alpha and gamma diversity.](http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0587.2009.05880.x/abstract)
 
-[ A diversity of beta diversities: straightening up a concept gone awry. Part 2. Quantifying beta diversity and related phenomena.](http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0587.2009.06148.x/abstract)
+* [ A diversity of beta diversities: straightening up a concept gone awry. Part 2. Quantifying beta diversity and related phenomena.](http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0587.2009.06148.x/abstract)
 
 
 
