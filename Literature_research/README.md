@@ -25,37 +25,19 @@ An overview of the traditional species diversity can be found in: [Measuring Bio
 
 A good start for learning about evenness indices is [A Consumer's Guide to Evenness Indices](http://www.jstor.org/stable/3545749).
 
-## Going further: Alpha- and Beta diversity
-
-Alpha- and Beta diversity: introduced in [Vegetation of the siskiyou mountains, oregon and california](http://www.esajournals.org/doi/abs/10.2307/1943563). 
+## Alpha- and Beta diversity
 
 [Commentary: do we have a consistent terminology for species
-diversity? we are on the way.](http://www.ncbi.nlm.nih.gov/pubmed/21938639) addresses the issues with this terminology.
+diversity? we are on the way.](http://www.ncbi.nlm.nih.gov/pubmed/21938639) addresses the issues with this terminology. Personally I would avoid using beta-diversity as much as possible. 
 
 ## True diversity
-[Diversity and Evenness](http://www.esajournals.org/doi/abs/10.2307/1934352): Hill proposes True Diversity. 
+[Diversity and Evenness](http://www.esajournals.org/doi/abs/10.2307/1934352) -- Hill proposes true diversity, or the effective number of types. 
 
+[Partitioning diversity into independent alpha and beta components](http://www.esajournals.org/doi/abs/10.1890/06-1736.1) - points out the issues beta-diversity and why Hill's work could solve some issues.
 
+## Similarity-sensitive diversity
+[Measuring diversity: the importance of species similarity](http://www.esajournals.org/doi/abs/10.1890/10-2402.1) - the crux of my thesis. I incorporate similarity data into my analysis and evaluate its usefulness. 
 
-
-
-These files might be interesting for:
-
-* Students looking for an example of an experimental design
-* Microbiologist looking to build machine learning models on noisy data
-
-This repository consists of a part about Labwork and a part about Modelling.
-
-All the files for the labwork can be found in [Labwork](./Labwork).
-
-
-
-Contribution
-------------
-
-* Author: Wai Kit Tsang
-* Promotors: Prof. dr. ir. Nico Boon and Prof. dr. Willem Waegeman
-* Tutors: ir. Michiel Stock  & dr. Ramiro Vílchez-Vargas
 
 
 
