@@ -1,8 +1,10 @@
-## Lab work
+# Lab work
 
-During the first semester I performed lab experiments.
+During the first semester I had the opportunity to work in the lab. I set up my some experiments by creating an experimental design with the help of my tutor[Michiel Stock](https://github.com/MichielStock). 
 
-# Objective
+Raw data was generated and processed in the statistical analysis. 
+
+## Objective
 Testing whether communities with high evenness are more resistant to pathogen invasion than communities with low evenness. It has been shown by [Wittebolle et al.](http://www.nature.com/nature/journal/v458/n7238/full/nature07840.html) that evenness influences a community's functionality. 
 
 The research questions that were tackled in my thesis mainly deal with synthetic microbial ecology. As pathogen increasingly gain antibiotic resistance, it becomes more interesting to look at the underlying factors of community structure to manipulate a community's resistance to invasion. One key factor that is explored is community evenness, i.e. the relative abundance of species in a community. It is reported in literature that communities with low evenness -- meaning strong domination by one species -- is more fragile than communities with high evenness -- i.e. communities where most species are equally abundant. 
