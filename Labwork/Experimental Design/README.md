@@ -22,6 +22,6 @@ A hypothesis was formulated that communities with high evenness are more resista
 * ```v1``` to ```v10```: The total volume of the corresponding ten bacteria in the synthetic community to be pipetted from the resp. concentration values ```c1``` to ```c10```. These variables have no meaning whatsoever for the analysis and are only created to make working tables for conducting the lab experiments. 
 * ```c1``` to ```c10```: The concentration corresponding with the ten bacteria from which to pipet.These variables have no meaning whatsoever for the analysis and are only created to make working tables for conducting the lab experiments.
 
-##### The 194 observations/synthetic communities
+##### The 194 observations/synthetic communities in the rows
 * row 1 to 100: 100 synthetic communities were selected to optimally test for the null hypothesis. 
 * row 101 to 194: 94 synthetic communities were randomly selected from the simulations. 
