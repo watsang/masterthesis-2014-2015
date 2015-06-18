@@ -18,7 +18,7 @@ The selection of the pathogen can be found in [pathogenlist](./pathogenlist).
 
 The statistical analysis of the data can be found in [Statistical analysis](./Statistical analysis)
 
-### Trivia
+### Extra information
 * The preliminary results for one pathogen was presented in a [presentation](./presentation). 
 
 * The early results were analysed in [results december](./results december)
