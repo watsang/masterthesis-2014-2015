@@ -16,14 +16,12 @@ Change a microbial community's resistance to invasion by varying the species dis
 [Practical tools for microbial ecology](http://www.ncbi.nlm.nih.gov/pubmed/18331337) -- some useful parameters to describe microbial communities. One meaningful parameter is species diversity index and evenness. 
 
 ## Species Diversity
-=====================
 
 The problem of diversity indices? There are numerous species diversity indices and each expresses different things. So which diversity index is most useful? An overview of the traditional species diversity can be found in: [Measuring Biological Diversity](www2.ib.unicamp.br/profs/thomas/NE002_2011/maio10/Magurran%202004%20c2-4.pdf). In general Shannon-Wiener Index and Simpson index D is used. 
 
 An article that may be helpful, although it focuses mainly on aquatic ecosystems: [Diversity, biotic and similarity indices](http://www.sciencedirect.com/science/article/pii/0043135484901647).
 
 ## Species Evenness
-============
 
 A good start for learning about evenness indices is [A Consumer's Guide to Evenness Indices](http://www.jstor.org/stable/3545749).
 
