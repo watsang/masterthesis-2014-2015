@@ -1,0 +1,13 @@
+
+model{
+for(i in 1:n){
+mu[i] <- beta[1] + beta[2]*fem[i] + beta[3]*mar[i]
++ beta[4]*kid5[i] + beta[5]*phd[i]
++ beta[6]*ment[i]
+lambda[i] <- exp(mu[i])
+p[i] <- r/(r+lambda[i])
+y[i] ~ dnegbin(p[i],r)
+}
+beta[1:6] ~ dmnorm(b0[1:6],B0[,])
+r ~ dunif(0,50)
+}
