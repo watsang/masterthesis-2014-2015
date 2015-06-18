@@ -6,7 +6,7 @@ When I started reading the literature on diversity indices in microbial ecology,
 For folks who want to get into the biodiversity debates in ecology, the list of articles below may be a good start.
 
 ## My thesis' objective
-Change a microbial community's resistance to invasion by varying the species distribution of a community. 
+ The goal was to explore the optimal management of microbial resources (Microbial Resource Management) with regards to pathogen invasion. The aim was to evaluate whether a microbial community's resistance to invasion can be manipulated by varying the species distribution of a community. Primarily [Pielou's Evenness](http://onlinelibrary.wiley.com/doi/10.1002/bimj.4710200616/abstract) (for more information: [Species evenness](http://www.jstor.org/stable/3545749)) was used to set-up the design, but afterwards [a similarity-sensitive diversity](http://www.esajournals.org/doi/abs/10.1890/10-2402.1) was used in the analysis. 
 
 ## General Background
 [Microbial Resource Management](http://onlinelibrary.wiley.com/doi/10.1002/elsc.200620176/abstract) -- the paper lays the foundation for manipulating microbial communities from an ecological perspective. 
