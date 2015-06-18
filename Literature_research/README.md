@@ -17,9 +17,9 @@ Change a microbial community's resistance to invasion by varying the species dis
 
 ## Species Diversity
 
-The problem of diversity indices? There are numerous species diversity indices and each expresses different things. So which diversity index is most useful? An overview of the traditional species diversity can be found in: [Measuring Biological Diversity](www2.ib.unicamp.br/profs/thomas/NE002_2011/maio10/Magurran%202004%20c2-4.pdf). In general Shannon-Wiener Index and Simpson index D is used. 
+An overview of the traditional species diversity can be found in: [Measuring Biological Diversity](www2.ib.unicamp.br/profs/thomas/NE002_2011/maio10/Magurran%202004%20c2-4.pdf). The problem of diversity indices? There are numerous species diversity indices and each expresses different things. So which diversity index is most useful? (In general Shannon-Wiener Index and Simpson index D is used.) 
 
-An article that may be helpful, although it focuses mainly on aquatic ecosystems: [Diversity, biotic and similarity indices](http://www.sciencedirect.com/science/article/pii/0043135484901647).
+[Diversity, biotic and similarity indices](http://www.sciencedirect.com/science/article/pii/0043135484901647) -- an article that may be helpful, although it focuses mainly on aquatic ecosystems. 
 
 ## Species Evenness
 
