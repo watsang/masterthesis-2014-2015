@@ -6,7 +6,8 @@ library(reshape2)
 require(foreign)
 
 
-setwd("D:/univ/2014-2015/thesis/KERMIT/results february")
+# setwd("D:/univ/2014-2015/thesis/KERMIT/results february")
+setwd("D:/Github/masterthesis-2014-2015/Labwork/Statistical Analysis")
 bacteria <- read.csv("design_results_febr_counts.csv")
 
 LMG7866 <- bacteria$LMG7866
@@ -47,27 +48,25 @@ ggplot(df, aes(x=LMG7866)) + geom_histogram(binwidth=1) + xlab("Pathogen count")
 #############################################################################################################
 #############################################################################################################
 ## Poisson
-model1 <- glm(pathogen~.,data=df, family = poisson())
+model1 <- glm(LMG7866~evenness+log10(cellcount) +evenness:log10(cellcount),data=df, family = poisson())
+model2 <- glm(LMG7878~evenness+log10(cellcount) +evenness:log10(cellcount),data=df, family = poisson())
+model3 <- glm(LMG3203~evenness+log10(cellcount) +evenness:log10(cellcount),data=df, family = poisson())
+model4 <- glm(LMG2954~evenness+log10(cellcount) +evenness:log10(cellcount),data=df, family = poisson())
 summary(model1)
-plot(pathogen~evenness)
-preds <- predict(model1, type = "response", se.fit = TRUE)
-critval <- 1.96 ## approx 95% CI
-upr <- preds$fit + (critval * preds$se.fit)
-lwr <- preds$fit - (critval * preds$se.fit)
-fit <- preds$fit
-lines(evenness[order(evenness)], lo(evenness, fit), col="red")
-lines(evenness[order(evenness)], lo(evenness, upr))
-lines(evenness[order(evenness)], lo(evenness, lwr))
-confint(model1)
+summary(model2)
+summary(model3)
+summary(model4)
+
+# LMG7878 interaction factor, for the remaining three pathogen the interaction factor is removed
 
 model1 <- glm(LMG7866~ evenness+log10(cellcount), data = bacteria, family = poisson())
 model2 <- glm(LMG2954~ evenness+log10(cellcount), data = bacteria, family = poisson())
 model3 <- glm(LMG3203~ evenness+log10(cellcount), data = bacteria, family = poisson())
 
 # => C H E C K  F O R  O V E R D I S P E R S I O N
-dispersiontest(model1) # overdispersed...
-dispersiontest(model2) # overdispersed...
-dispersiontest(model3) # overdispersed...
+dispersiontest(model1, trafo=2) # overdispersed...
+dispersiontest(model2, trafo=2) # overdispersed...
+dispersiontest(model3, trafo=2) # overdispersed...
 
 # Source: http://www.ats.ucla.edu/stat/r/dae/nbreg.htm
 ## negative binomial => used for overdispersed data i.e. variance > mean
@@ -77,6 +76,7 @@ model3 <- glm.nb(LMG3203~ evenness+log10(cellcount)+evenness:log10(cellcount), d
 summary(model1)
 summary(model2)
 summary(model3)
+# remove interaction factors
 model1 <- glm.nb(LMG7866~ evenness+log10(cellcount), data = bacteria)
 model2 <- glm.nb(LMG2954~ evenness+log10(cellcount), data = bacteria)
 model3 <- glm.nb(LMG3203~ evenness+log10(cellcount), data = bacteria)
@@ -89,33 +89,14 @@ texreg(list(model1, model2, model3), dcolumn = F, booktabs = T, use.packages = F
        scalebox = .7, caption.above = T)
 
 
+# Check model assumptions of homoscedasticity
+par(mfrow = c(2,2))
+plot(model1)
+plot(model2)
+plot(model3)
 
 
 
-model_nb <- glm.nb(pathogen ~ ., data=df)
-summary(model_nb)
-plot(pathogen~evenness)
-preds <- predict(model_nb, type = "response", se.fit = TRUE)
-critval <- 1.96 ## approx 95% CI
-upr <- preds$fit + (critval * preds$se.fit)
-lwr <- preds$fit - (critval * preds$se.fit)
-fit <- preds$fit
-
-
-lines(evenness[order(evenness)], lo(evenness, fit), col="red")
-lines(evenness[order(evenness)], lo(evenness, upr))
-lines(evenness[order(evenness)], lo(evenness, lwr))
-smooth.fit <- lo(evenness, fit)$fitted
-smooth.upr <- lo(evenness, upr)$fitted
-smooth.lwr <- lo(evenness, lwr)$fitted
-df.smooth <- data.frame(evenness, pathogen, smooth.fit, smooth.upr, smooth.lwr)
-df.smooth <- melt(df.smooth, id.var="evenness")
-ggplot(df.smooth) + geom_point(aes(x=evenness, y=pathogen)) + 
-  geom_line(aes(x=evenness, y=smooth.fit, colour = "Fit"), size = 2) +
-  geom_ribbon(aes(x=evenness, ymin = smooth.lwr, ymax = smooth.upr, colour = "Confidence Interval"), alpha = .25)
-
-
-par(mfrow=c(1,1))
 
 ### check model assumptions
 pchisq(2 * (logLik(model_nb) - logLik(model1)), df = 1, lower.tail = FALSE)
