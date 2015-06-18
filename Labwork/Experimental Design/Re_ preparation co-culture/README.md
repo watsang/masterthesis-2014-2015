@@ -1,3 +1,22 @@
 The R-file that generates the design is design_coculture_october1.R. The R-file was changed  to a computational lighter version which generates only the relevant variables.
 
 The raw output of the design is design.csv.
+
+#### Formulating a null-hypothesis
+
+A hypothesis was formulated that communities with high evenness are more resistant to invasion contrary to communities with low evenness. Lab experiments were set up where 194 synthetic communities consisting of 10 bacteria were assembled on a varying range of evenness. To find the optimal design 1000000 communities were simulated, after which a 94 were randomly selected and 100 according to a certain stratification. 
+
+#### Description variables of design.
+
+##### The variables in the columns
+* ```b1``` to ```b10```: The total cells of the ten bacteria in the synthetic community. Values between 10^3 to 10^7 cells per volume cryovial. 
+* ```evenness```: The evenness calculated with pielou's evenness based on the cells of the ten bacteria ```b1``` to ```b10```. 
+* ```celaantal```: the total cell count in the specific community. The sum of all the cells for the ten bacteria. 
+* ```gini_thas```:  the [gini-coefficient](https://en.wikipedia.org/wiki/Gini_coefficient), a measure of evenness often used in economy and ecology. This gini is calculated with the formula in [Environmental conditions and community evenness determine the outcome of biological invasion](http://www.nature.com/ncomms/journal/v4/n1/full/ncomms2392.html).
+* ```gini_wittebolle```: the [gini-coefficient](https://en.wikipedia.org/wiki/Gini_coefficient) calculated with the formula in [Initial community evenness favours functionality under selective stress](users.ugent.be/~wverstra/research/Labmet%20publicatie%20922%20Wittebolle%20...%20Nature%20458,%20623-626.pdf)
+* ```v1``` to ```v10```: The total volume of the corresponding ten bacteria in the synthetic community to be pipetted from the resp. concentration values ```c1``` to ```c10```. These variables have no meaning whatsoever for the analysis and are only created to make working tables for conducting the lab experiments. 
+* ```c1``` to ```c10```: The concentration corresponding with the ten bacteria from which to pipet.These variables have no meaning whatsoever for the analysis and are only created to make working tables for conducting the lab experiments.
+
+##### The 194 observations/synthetic communities in the rows
+* row 1 to 100: 100 synthetic communities were selected to optimally test for the null hypothesis. 
+* row 101 to 194: 94 synthetic communities were randomly selected from the simulations. 
