@@ -21,12 +21,15 @@ Four pathogen are selected namely LMG7866, LMG3203, LMG7878 and LMG2954. The pat
 
 #### The statistics
 The data is analysed in the file comparison_freqvsbayes.R. In a first part a frequentist approach is used. In a second part of the file an attempt was made to apply Bayes. 
-###### Poisson
+##### Poisson
 First a Poisson regression is used. But the model for each of the four pathogen are shown to be overdispersed. 
-###### Negative-Binomial Regression
+##### Negative-Binomial Regression
 A negative binomial regression model can account for the overdispersion
-###### Checking assumptions
+##### Checking assumptions
 Homoscedasticity is checked.
+
+#### Interpretation
+Only the data for LMG7866 (E. Fergusonii) seemed to be less noisy than the remaining ones. Only for this pathogen the evenness seems to influence the invasion. For the other three pathogen the relevant model variables are different each time. 
 
 
 Let's go ahead and test our hypothesis!
