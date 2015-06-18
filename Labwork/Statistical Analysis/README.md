@@ -7,6 +7,7 @@ Four pathogen are selected namely LMG7866, LMG3203, LMG7878 and LMG2954. The pat
 #### Description variables of design.
 
 ##### The variables in the columns
+* ```id```: indicates which of the 194 communities is invaded. 
 * ```b1``` to ```b10```: The total cells of the ten bacteria in the synthetic community. Values between 10^3 to 10^7 cells per volume cryovial. 
 * ```evenness```: The evenness calculated with pielou's evenness based on the cells of the ten bacteria ```b1``` to ```b10```. 
 * ```cellcount```: the total cell count in the specific community. The sum of all the cells for the ten bacteria. 
