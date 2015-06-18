@@ -2,7 +2,7 @@
 
 A hypothesis was formulated that communities with high evenness are more resistant to invasion contrary to communities with low evenness. The lab experiments were conducted and in each synthetic community per experiment one pathogen was introduced. 
 
-Four pathogen are selected namely LMG7866, LMG3203, LMG7878 and LMG2954. The pathogen information can be found back in the file [human pathogens III def.xlsx](../Pathogenlist). 
+Four pathogen are selected namely LMG7866, LMG3203, LMG7878 and LMG2954. The pathogen information can be found back in the file [human pathogens III def.xlsx](../pathogenlist). 
 
 Let's go ahead and test this!
 
