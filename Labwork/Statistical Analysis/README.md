@@ -30,6 +30,3 @@ Homoscedasticity is checked.
 
 #### Interpretation
 Only the data for LMG7866 (E. Fergusonii) seemed to be less noisy than the remaining ones. Only for this pathogen the evenness seems to influence the invasion. For the other three pathogen the relevant model variables are different each time. 
-
-
-Let's go ahead and test our hypothesis!
