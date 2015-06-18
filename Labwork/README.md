@@ -11,7 +11,7 @@ Testing whether communities with high evenness are more resistant to pathogen in
 
 The files for generating the experimental design can be found in [Experimental Design](./Experimental Design).
 
-### Some details about lab experiments
+### Selection pathogen
 The selection of the pathogen can be found in [pathogenlist](./pathogenlist). 
 
 ### The statistical analysis
