@@ -49,13 +49,13 @@ for(i in 1:1000000){
 	verhouding <- datapoint/sum(datapoint)
 	evenness[i,] <- -sum(verhouding*log(verhouding, base = 10))
 	celaantal[i,] <- sum(datapoint)
-  # gini_thas[i] <- gini_Thas(simulations[i,])
-	# gini_wittebolle[i] <- gini_Wittebolle(simulations[i,])	
+  gini_thas[i] <- gini_Thas(simulations[i,])
+	gini_wittebolle[i] <- gini_Wittebolle(simulations[i,])	
 }
 
 
-df <- as.data.frame(cbind(simulations, evenness, celaantal)) # gini_thas, gini_wittebolle))
-names(df) <- c('b1','b2','b3','b4','b5','b6','b7','b8','b9','b10','evenness','celaantal') # 'gini_thas', 'gini_wittebolle')
+df <- as.data.frame(cbind(simulations, evenness, celaantal, gini_thas, gini_wittebolle))
+names(df) <- c('b1','b2','b3','b4','b5','b6','b7','b8','b9','b10','evenness','celaantal', 'gini_thas', 'gini_wittebolle')
 head(df)
 par(mfrow = c(1,2), cex = 1.5)
 plot(df$evenness, df$celaantal, xlab="Pielou's Evenness", ylab="Cellcount")
