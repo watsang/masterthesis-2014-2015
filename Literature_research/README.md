@@ -42,6 +42,8 @@ diversity? we are on the way.](http://www.ncbi.nlm.nih.gov/pubmed/21938639) addr
 * [Initial community evenness favours functionality
 under selective stress](users.ugent.be/~wverstra/research/Labmet%20publicatie%20922%20Wittebolle%20...%20Nature%20458,%20623-626.pdf)
 
+* [Environmental conditions and community evenness determine the outcome of biological invasion](http://www.nature.com/ncomms/journal/v4/n1/full/ncomms2392.html)
+
 * [The role of ecological theory in microbial ecology](pages.uoregon.edu/green/publications/Prosser%20et%20al.%202007%20Nature%20Reviews%20Micro_Role%20theory.pdf)
 
 ### More on Diversity indices
