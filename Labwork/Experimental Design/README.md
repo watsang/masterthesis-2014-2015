@@ -12,4 +12,6 @@ The research questions that were tackled in my thesis mainly deal with synthetic
 A hypothesis was formulated that communities with high evenness are more resistant to invasion contrary to communities with low evenness. Lab experiments were set up where 194 synthetic communities consisting of 10 bacteria were assembled on a varying range of evenness. To find the optimal design 1000000 communities were simulated, after which a 94 were randomly selected and 100 according to a certain stratification. 
 
 #### Description variables of design.
+```b1``` to ```b10```: The total cellconcentration of the ten bacteria in the synthetic community
+```evenness```: The evenness calculated with pielou's evenness based on the cellconcentration of the ten bacteria ```b1``` to ```b10```. 
 
