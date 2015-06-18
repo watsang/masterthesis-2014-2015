@@ -25,8 +25,17 @@ An article that may be helpful, although it focuses mainly on aquatic ecosystems
 
 A good start for learning about evenness indices is [A Consumer's Guide to Evenness Indices](http://www.jstor.org/stable/3545749).
 
+## Going further: Alpha- and Beta diversity
+
+Alpha- and Beta diversity: introduced in [Vegetation of the siskiyou mountains, oregon and california](http://www.esajournals.org/doi/abs/10.2307/1943563). 
+
+[Commentary: do we have a consistent terminology for species
+diversity? we are on the way.](http://www.ncbi.nlm.nih.gov/pubmed/21938639) addresses the issues with this terminology.
+
 ## True diversity
-====================
+[Diversity and Evenness](http://www.esajournals.org/doi/abs/10.2307/1934352): Hill proposes True Diversity. 
+
+
 
 
 
