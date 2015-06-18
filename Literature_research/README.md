@@ -31,10 +31,22 @@ A good start for learning about evenness indices is [A Consumer's Guide to Evenn
 diversity? we are on the way.](http://www.ncbi.nlm.nih.gov/pubmed/21938639) addresses the issues with this terminology. Personally I would avoid using beta-diversity altogether. 
 
 ## True diversity
-[Partitioning diversity into independent alpha and beta components](http://www.esajournals.org/doi/abs/10.1890/06-1736.1) - points out the issues beta-diversity and why Hill's work could solve some issues.
+[The Relation between Evenness and Diversity](http://www.mdpi.com/1424-2818/2/2/207) - points out the issues beta-diversity and why [Hill's work](http://www.esajournals.org/doi/abs/10.2307/1934352) could solve some issues.
 
 ## Similarity-sensitive diversity
 [Measuring diversity: the importance of species similarity](http://www.esajournals.org/doi/abs/10.1890/10-2402.1) - the crux of my thesis. I incorporate similarity data into my analysis and evaluate its usefulness. 
+
+
+## Extra reading
+[A consistent terminology for quantifying species diversity? Yes, it does exist.] (http://www.ncbi.nlm.nih.gov/pubmed/20978798)
+
+[Commentary: do we have a consistent terminology for species diversity? Yes, if we choose to use it.](http://link.springer.com/article/10.1007%2Fs00442-011-2128-4)
+
+[A diversity of beta diversities: straightening up a concept gone awry. Part 1. Defining beta diversity as a function of alpha and gamma diversity.](http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0587.2009.05880.x/abstract)
+
+[ A diversity of beta diversities: straightening up a concept gone awry. Part 2. Quantifying beta diversity and related phenomena.](http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0587.2009.06148.x/abstract)
+
+
 
 
 
