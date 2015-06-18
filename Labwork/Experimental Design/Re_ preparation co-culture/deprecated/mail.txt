@@ -1,0 +1,16 @@
+Hi,
+
+The design was changed and seems more reasonable now. 
+The best possible range that approximates our ideal design has 40 points each in the high and low levels,
+where high = 1 to 0.8 evenness, while low = 0 to .2 evenness.
+4 concentrations were used from 10^7 to 10^4.
+10^3 was skipped because less than 1 in final experiment was agreed to be unquantifiable anymore.
+
+The final eveness distribution can be viewed in hist(evenness).jpg.
+The R-file to generate this can be found in design_coculture_september1.R.
+The generated matrix for pipetting in design.xlsx, and the file spawned by the R file in  design.csv.
+Cellcount vs evenness.jpg shows that the two variables are now quite orthogonal with a final correlation of -0.24.
+
+Kind Regards,
+Wai Kit
+
