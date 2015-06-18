@@ -19,5 +19,14 @@ Four pathogen are selected namely LMG7866, LMG3203, LMG7878 and LMG2954. The pat
 * ```LMG2954```: Colonies counted of Proteus mirabilis after invasion and plating on LB agar. 
 * ```replica```: indicates the replica number. Each of the 194 communities is replicated two times. 
 
+#### The statistics
+The data is analysed in the file comparison_freqvsbayes.R. In a first part a frequentist approach is used. In a second part of the file an attempt was made to apply Bayes. 
+###### Poisson
+First a Poisson regression is used. But the model for each of the four pathogen are shown to be overdispersed. 
+###### Negative-Binomial Regression
+A negative binomial regression model can account for the overdispersion
+###### Checking assumptions
+Homoscedasticity is checked.
+
 
 Let's go ahead and test our hypothesis!
