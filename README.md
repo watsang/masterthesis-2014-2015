@@ -6,7 +6,7 @@ The master thesis is a result of a collaboration between [LabMET] (http://www.la
 
 These files might be interesting for:
 
-* Students looking for an example of an experimental design
+* Students looking for an example of an [experimental design](./Labwork/Experimental Design)
 * Microbiologist looking to build machine learning models on noisy data
 
 This repository consists of a part about Labwork and a part about Modelling.
