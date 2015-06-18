@@ -16,6 +16,7 @@ Four pathogen are selected namely LMG7866, LMG3203, LMG7878 and LMG2954. The pat
 * ```LMG3203```: Colonies counted of Raoultella terrigena after invasion and plating on LB agar. 
 * ```LMG7878```: Colonies counted of Proteus inconstans after invasion and plating on LB agar. 
 * ```LMG2954```: Colonies counted of Proteus mirabilis after invasion and plating on LB agar. 
+* ```replica```: indicates the replica number. Each of the 194 communities is replicated two times. 
 
 
 Let's go ahead and test our hypothesis!
