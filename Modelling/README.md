@@ -22,7 +22,7 @@ svr_all_genomes -complete > all_genomes.txt
 
 Note: If any of the links are broken, try: [http://seed-viewer.theseed.org/seedviewer.cgi?page=ModelView](http://seed-viewer.theseed.org/seedviewer.cgi?page=ModelView).
 
-## The tidy data
+## The Tidy data
 The data preprocessing files are in the directory data_preprocessing. 
 These files are unnecessary for the ensuing analysis. 
 
