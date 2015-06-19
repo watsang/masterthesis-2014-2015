@@ -14,7 +14,7 @@ Retrieving the data for constructing similarity metrics can be performed via the
 ```perl
 svr_all_models|svr_reactions_in_model>all_reactions_in_table.txt
 ```  
-* All genome names and genome IDs via **Rastshell**: 
+* Via **Rastshell** all genome names and genome IDs : 
 ```perl
 svr_all_genomes -complete > all_genomes.txt
 ```  
