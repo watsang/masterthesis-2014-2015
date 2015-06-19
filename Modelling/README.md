@@ -1,10 +1,6 @@
-Data retrieval
---------------
-Finding the data is described in retrieval_data.txt.
-
-Retrieving the data for constructing similarity metrics can be performed via the RAST-Server.
-
 ## The Raw data
+
+The data was downloaded via the [Network-Based SEED API](http://blog.theseed.org/servers/). 
 
 ### Installing RastShell and accessing serverscripts
 * Installation Information can be found [here] (http://blog.theseed.org/servers/)
@@ -36,3 +32,9 @@ Data analysis
 ------------------
 An initial pca analysis was performed in the directory pca. 
 For this, you will need the data in the folder data_organism_reactions.
+
+Data retrieval
+--------------
+Finding the data is described in retrieval_data.txt.
+
+Retrieving the data for constructing similarity metrics can be performed via the RAST-Server.
