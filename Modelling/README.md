@@ -5,8 +5,8 @@ Finding the data is described in retrieval_data.txt.
 Retrieving the data for constructing similarity metrics can be performed via the RAST-Server.
 
 ### Installing RastShell and accessing serverscripts
-* Information can be found [here](http://blog.theseed.org/servers/). 
-* Access the server scripts [here](http://pubseed.theseed.org/sapling/server.cgi?pod=ServerScripts). 
+* [Installation Information] (http://blog.theseed.org/servers/)
+* [Server Scripts](http://pubseed.theseed.org/sapling/server.cgi?pod=ServerScripts) 
 
 ### Raw data
 
