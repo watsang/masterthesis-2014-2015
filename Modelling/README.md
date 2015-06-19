@@ -8,9 +8,9 @@ Retrieving the data for constructing similarity metrics can be performed via the
 * Installation Information can be found [here] (http://blog.theseed.org/servers/)
 * Information on using the Server Scripts can be found [here](http://pubseed.theseed.org/sapling/server.cgi?pod=ServerScripts) 
 
-### Raw data
+### Downloading Raw data
 
-* All reactions per model via **RastShell**  : 
+* Via **RastShell** all reactions per model (this might take a while...): 
 ```perl
 svr_all_models|svr_reactions_in_model>all_reactions_in_table.txt
 ```  
@@ -18,10 +18,10 @@ svr_all_models|svr_reactions_in_model>all_reactions_in_table.txt
 ```perl
 svr_all_genomes -complete > all_genomes.txt
 ```  
-* All the reactions in the database: 
+* All the reactions in the database:   
 Via this [link](seed-viewer.theseed.org/ModelSEEDdownload.cgi?biochemistry=1).
 
-* All the compounds in the database: 
+* All the compounds in the database:   
 Via this [link](seed-viewer.theseed.org/ModelSEEDdownload.cgi?biochemCompounds=1).
 
 Note: If any of the links are broken, try: [http://seed-viewer.theseed.org/seedviewer.cgi?page=ModelView](http://seed-viewer.theseed.org/seedviewer.cgi?page=ModelView).
