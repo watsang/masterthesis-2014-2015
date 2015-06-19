@@ -4,13 +4,13 @@ Finding the data is described in retrieval_data.txt.
 
 Retrieving the data for constructing similarity metrics can be performed via the RAST-Server.
 
-### Installing RastShell and finding serverscripts
+### Installing RastShell and accessing serverscripts
 * Information can be found [here](http://blog.theseed.org/servers/). 
 * Access the server scripts [here](http://pubseed.theseed.org/sapling/server.cgi?pod=ServerScripts). 
 
 ### Raw data
 
-* Rast-server  
+* **Rast-server**  
 ..1. All reactions per model: 
 ```perl
 svr_all_models|svr_reactions_in_model>all_reactions_in_table.txt
@@ -19,7 +19,7 @@ svr_all_models|svr_reactions_in_model>all_reactions_in_table.txt
 ```perl
 svr_all_genomes -complete > all_genomes.txt
 ```  
-* Link  
+* **Link**
 ..1. All the reactions in the database: 
 Via this [link](seed-viewer.theseed.org/ModelSEEDdownload.cgi?biochemistry=1).
 
