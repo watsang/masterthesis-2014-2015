@@ -20,7 +20,7 @@ svr_all_genomes -complete > all_genomes.txt
 
 * All the compounds in the database: [here](seed-viewer.theseed.org/ModelSEEDdownload.cgi?biochemCompounds=1).
 
-* The information on the locations: [here](http://mblnx-kallisto.uzh.ch:8888/microbial_coexistence/)
+* The information on the locations (Chafron S. et al.): [here](http://mblnx-kallisto.uzh.ch:8888/microbial_coexistence/)
 
 Note: If the links for the reactions and compounds are broken, try: [http://seed-viewer.theseed.org/seedviewer.cgi?page=ModelView](http://seed-viewer.theseed.org/seedviewer.cgi?page=ModelView).
 
