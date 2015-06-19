@@ -10,24 +10,22 @@ Retrieving the data for constructing similarity metrics can be performed via the
 
 ### Raw data
 
-* Rast-server
+* Rast-server  
 ..1. All reactions per model: 
 ```perl
 svr_all_models|svr_reactions_in_model>all_reactions_in_table.txt
-```
+```  
 ..2. All genome names and genome IDs: 
 ```perl
 svr_all_genomes -complete > all_genomes.txt
-```
-* Link
+```  
+* Link  
 ..1. All the reactions in the database: 
 Via this [link](seed-viewer.theseed.org/ModelSEEDdownload.cgi?biochemistry=1).
 
 ..2. All the compounds in the database: 
 Via this [link](seed-viewer.theseed.org/ModelSEEDdownload.cgi?biochemCompounds=1).
 
-
-```
 
 Note: If any of the links are broken, try: [http://seed-viewer.theseed.org/seedviewer.cgi?page=ModelView](http://seed-viewer.theseed.org/seedviewer.cgi?page=ModelView).
 
