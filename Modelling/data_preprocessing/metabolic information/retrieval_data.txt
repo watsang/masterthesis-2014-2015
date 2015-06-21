@@ -1,0 +1,10 @@
+The data can be accessed on:
+
+https://www.dropbox.com/sh/bs35xkxepc4jbof/AAC0EgOe-2t0UnxKyOSVJSRoa?dl=0
+
+Esp. the file table_with_reactions.txt could not be uploaded on Github
+
+The data was originally downloaded via the seed api, using the serverscripts:
+
+http://pubseed.theseed.org/sapling/server.cgi?pod=ServerScripts
+
