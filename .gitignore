@@ -12,6 +12,7 @@ find . -size +100000 | cat >> .gitignore
 # Image files #
 ###############
 *.png
+*.dia
 
 # Compiled source #
 ###################
