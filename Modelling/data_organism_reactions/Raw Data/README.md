@@ -1,6 +1,6 @@
 ## The Raw data
 
-### Metabolic Information
+### 1. Metabolic Information
 
 The data was downloaded via the [Network-Based SEED API](http://blog.theseed.org/servers/). 
 
@@ -33,9 +33,8 @@ This folder should contain four files:
 * ModelSEED-reactions-db.csv
 * table_with_reactions.txt
 
-### Co-occurence in ecosystems 
+### 2. Co-occurence in ecosystems 
 
-folder: [locations](./locations)
-	=> contains raw files for locations
-
+folder: information on the [locations](./locations) 
+can be retrieved via this [link](http://mblnx-kallisto.uzh.ch:8888/microbial_coexistence/) (Chaffron et al.). 
 
