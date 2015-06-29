@@ -26,10 +26,10 @@ Note: If any of the links are broken, try: [http://seed-viewer.theseed.org/seedv
 The data preprocessing files are in the directory data_preprocessing. 
 These files are unnecessary for the ensuing analysis. 
 
-The raw data for the organism reactions are in the directory data_organism_reactions.
+The raw data for the organism reactions are in the directory [Raw Data](./Raw Data).
 
-The raw data of the reactions per organism can be found in directory Raw Reaction Matrices.
+The raw data of the reactions per organism can be found in directory [Raw Reaction Matrices](./Raw Reaction Matrices).
 
-The Stoichiometric Matrices folder contains all the processed Stoichiometric Matrices.
+The [Stoichiometric Matrices](./Stoichiometric Matrices) folder contains all the processed Stoichiometric Matrices.
 These are already processed. You can look up the reactions in csv with reactions.
 The compounds can be replaced with the real compound name.
