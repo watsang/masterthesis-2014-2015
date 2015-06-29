@@ -1,12 +1,14 @@
 ## The Raw data
 
+### Metabolic Information
+
 The data was downloaded via the [Network-Based SEED API](http://blog.theseed.org/servers/). 
 
-### Installing RastShell and accessing serverscripts
+#### Installing RastShell and accessing serverscripts
 * Installation Information can be found [here] (http://blog.theseed.org/servers/)
 * Information on using the Server Scripts can be found [here](http://pubseed.theseed.org/sapling/server.cgi?pod=ServerScripts) 
 
-### Downloading Raw data
+#### Downloading Raw data
 
 * Via **RastShell** all reactions per model (this might take a while...): 
 ```perl
@@ -31,7 +33,9 @@ This folder should contain four files:
 * ModelSEED-reactions-db.csv
 * table_with_reactions.txt
 
-folder: locations
+### Co-occurence in ecosystems 
+
+folder: [locations](./locations)
 	=> contains raw files for locations
 
 
