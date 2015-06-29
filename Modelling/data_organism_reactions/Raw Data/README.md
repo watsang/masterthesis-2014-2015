@@ -38,3 +38,7 @@ This folder should contain four files:
 folder: information on the [locations](./locations) 
 can be retrieved via this [link](http://mblnx-kallisto.uzh.ch:8888/microbial_coexistence/) (Chaffron et al.). 
 
+## Bibliography
+
+* Chaffron, Samuel, et al. "A global network of coexisting microbes from environmental and whole-genome sequence data." Genome research 20.7 (2010): 947-959.
+
