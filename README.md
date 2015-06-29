@@ -17,6 +17,8 @@ In the second semester, the data from the experiments was analysed. External dat
 
 I wouldn't have understood the literature nearly as well without some helpful pointers. Folks who are interested to learn more about the role of diversity indices in microbial ecology can find this in [Literature_research](./Literature_research)
 
+An overview of the repository structure can be found in the figure below.
+
 ## Summary repository
 ![alt tag](./flowchart_directory.jpeg)
 
