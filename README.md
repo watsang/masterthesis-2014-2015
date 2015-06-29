@@ -1,6 +1,9 @@
 Assessing pathogen invasion based on community evenness and metabolic similarity
 ============
 
+## Overview workflow
+![alt tag](./flowchart_directory.jpeg)
+
 This is a guide through all my work for my master-thesis in the schoolyear 2014-2015.
 The master thesis is a result of a collaboration between [LabMET] (http://www.labmet.ugent.be/) and [KERMIT] (http://www.kermit.ugent.be/) at Ghent University.
 
