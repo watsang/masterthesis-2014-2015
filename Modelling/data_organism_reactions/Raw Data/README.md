@@ -33,14 +33,6 @@ svr_all_genomes -complete > all_genomes.txt
 
 Note: If any of the links are broken, try: [http://seed-viewer.theseed.org/seedviewer.cgi?page=ModelView](http://seed-viewer.theseed.org/seedviewer.cgi?page=ModelView).
 
-Raw Data contains all the raw unprocessed files
-
-This folder should contain four files:
-
-* all_genomes.txt
-* ModelSEED-compounds-db.csv
-* ModelSEED-reactions-db.csv
-* table_with_reactions.txt
 
 ### 2. Co-occurence in ecosystems 
 
