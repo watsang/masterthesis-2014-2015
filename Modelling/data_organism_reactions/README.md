@@ -1,31 +1,12 @@
-## The Raw data
-
-The data was downloaded via the [Network-Based SEED API](http://blog.theseed.org/servers/). 
-
-### Installing RastShell and accessing serverscripts
-* Installation Information can be found [here] (http://blog.theseed.org/servers/)
-* Information on using the Server Scripts can be found [here](http://pubseed.theseed.org/sapling/server.cgi?pod=ServerScripts) 
-
-### Downloading Raw data
-
-* Via **RastShell** all reactions per model (this might take a while...): 
-```perl
-svr_all_models|svr_reactions_in_model>all_reactions_in_table.txt
-```  
-* Via **Rastshell** all genome names and genome IDs : 
-```perl
-svr_all_genomes -complete > all_genomes.txt
-```  
-* All the reactions in the database: [here](seed-viewer.theseed.org/ModelSEEDdownload.cgi?biochemistry=1).
-
-* All the compounds in the database: [here](seed-viewer.theseed.org/ModelSEEDdownload.cgi?biochemCompounds=1).
-
-Note: If any of the links are broken, try: [http://seed-viewer.theseed.org/seedviewer.cgi?page=ModelView](http://seed-viewer.theseed.org/seedviewer.cgi?page=ModelView).
+## The Raw Data
+The raw data can be found in the folder [Raw Data](./Raw Data). 
 
 ## The Tidy data
+The cleaned data can be found in the folders Data_locations, [Raw Reaction Matrices](./Raw Reaction Matrices) and [Stoichiometric Matrices](./Stoichiometric Matrices). 
+
 * The files for preprocessing the data can be found in the folder [data_preprocessing](../data_preprocessing). 
 
-* The raw data for the organism reactions are in the directory [Raw Data](./Raw Data).
+* The raw data for the organism reactions are in the directory [Raw Data](./Raw Data). This 
 
 * The raw data of the reactions per organism can be found in directory [Raw Reaction Matrices](./Raw Reaction Matrices).
 
