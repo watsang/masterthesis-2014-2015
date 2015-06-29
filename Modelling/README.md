@@ -1,3 +1,6 @@
+## Overview workflow
+![alt tag](./flowchart_directory.jpeg)
+
 ## The Data
 
 How the data was retrieved can be found in [data_organism_reactions](./data_organism_reactions)
@@ -12,6 +15,5 @@ The data was analysed in the [analysis_data](./analysis data)
 Finally a simple [recommender engine](./recommender_engine) was implemented.
 
 
-## Overview workflow
-![alt tag](./flowchart_directory.jpeg)
+
 
