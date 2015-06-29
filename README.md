@@ -1,11 +1,6 @@
 Assessing pathogen invasion based on community evenness and metabolic similarity
 ============
 
-## Summary repository
-![alt tag](./flowchart_directory.jpeg)
-
-
-## Introduction
 This is a guide through all my work for my master-thesis in the schoolyear 2014-2015.
 The master thesis is a result of a collaboration between [LabMET] (http://www.labmet.ugent.be/) and [KERMIT] (http://www.kermit.ugent.be/) at Ghent University.
 
@@ -22,7 +17,8 @@ In the second semester, the data from the experiments was analysed. External dat
 
 I wouldn't have understood the literature nearly as well without some helpful pointers. Folks who are interested to learn more about the role of diversity indices in microbial ecology can find this in [Literature_research](./Literature_research)
 
-
+## Summary repository
+![alt tag](./flowchart_directory.jpeg)
 
 
 
