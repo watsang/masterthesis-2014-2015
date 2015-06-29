@@ -18,9 +18,9 @@ svr_all_models|svr_reactions_in_model>all_reactions_in_table.txt
 ```perl
 svr_all_genomes -complete > all_genomes.txt
 ```  
-* All the reactions in the database: [here](https://seed-viewer.theseed.org/ModelSEEDdownload.cgi?biochemistry=1).
+* All the reactions in the database: [here](http://seed-viewer.theseed.org/ModelSEEDdownload.cgi?biochemistry=1).
 
-* All the compounds in the database: [here](https://seed-viewer.theseed.org/ModelSEEDdownload.cgi?biochemCompounds=1).
+* All the compounds in the database: [here](http://seed-viewer.theseed.org/ModelSEEDdownload.cgi?biochemCompounds=1).
 
 Note: If any of the links are broken, try: [http://seed-viewer.theseed.org/seedviewer.cgi?page=ModelView](http://seed-viewer.theseed.org/seedviewer.cgi?page=ModelView).
 
