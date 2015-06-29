@@ -19,6 +19,8 @@ I wouldn't have understood the literature nearly as well without some helpful po
 
 An overview of the repository structure can be found in the figure below.
 
+Lastly, I apologise for the messy code. Hopefully, you can hack it out to make it work!
+
 ## Summary repository
 ![alt tag](./flowchart_directory.jpeg)
 
