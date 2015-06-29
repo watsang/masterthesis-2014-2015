@@ -11,3 +11,7 @@ The data was analysed in the [analysis_data](./analysis data)
 ## Recommender engine
 Finally a simple [recommender engine](./recommender_engine) was implemented.
 
+
+## Overview workflow
+![alt tag](./flowchart_directory.jpeg)
+
