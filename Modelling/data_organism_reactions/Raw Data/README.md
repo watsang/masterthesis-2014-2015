@@ -1,5 +1,14 @@
 ## The Raw data
 
+### 0. Overview
+
+File | Description
+------------| -----------
+all_genomes.txt | a file with the genome id and the full genome names
+ModelSEED-compounds-db.csv | compound id and the full name of the compounds
+ModelSEED-reactions-db.csv | reaction id and the full description of the reactions
+table_with_reactions.txt | genome id and the reaction id associated 
+
 ### 1. Metabolic Information
 
 The data was downloaded via the [Network-Based SEED API](http://blog.theseed.org/servers/). 
