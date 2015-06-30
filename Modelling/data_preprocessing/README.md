@@ -10,4 +10,4 @@ Order | File | Description
 3. | [ filter_on_selected_bacteria.ipynb](./ filter_on_selected_bacteria.ipynb) | filters the raw data on the locations on the useful data for bacteria. 
 
 ## Next
-Now that all data is processed. The data can finally be analysed: [analysis data](../analysis data). 
+Now that all data is processed. The data can be analysed: [analysis data](../analysis data). 
