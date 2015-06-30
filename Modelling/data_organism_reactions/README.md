@@ -7,7 +7,7 @@ The raw data can be found in the folder [Raw Data](./Raw Data).
 * The files for preprocessing the data can be found in the folder [data_preprocessing](../data_preprocessing). 
 
 ### The preprocessed data
-The cleaned data can be found in the folders Data_locations, [Raw Reaction Matrices](./Raw Reaction Matrices) and [Stoichiometric Matrices](./Stoichiometric Matrices). 
+The cleaned data can be found in the folders [Data_locations](./Data_locations), [Raw Reaction Matrices](./Raw Reaction Matrices) and [Stoichiometric Matrices](./Stoichiometric Matrices). 
 
 * The raw data for the organism reactions are in the directory [Raw Data](./Raw Data). This 
 
@@ -17,4 +17,4 @@ The cleaned data can be found in the folders Data_locations, [Raw Reaction Matri
 These are already processed. You can look up the reactions in csv with reactions.
 The compounds can be replaced with the real compound name.
 
-* [Data_locations] contains the processed data on the co-occurence in the ecosystems.
+* [Data_locations](./Data_locations) contains the processed data on the co-occurence in the ecosystems.
