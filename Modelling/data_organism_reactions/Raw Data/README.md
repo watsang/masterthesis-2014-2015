@@ -36,8 +36,12 @@ Note: If any of the links are broken, try: [http://seed-viewer.theseed.org/seedv
 
 ### 2. Co-occurence in ecosystems 
 
-folder: information on the [locations](./locations) 
+Information on the [locations](./locations) 
 can be retrieved via this [link](http://mblnx-kallisto.uzh.ch:8888/microbial_coexistence/) (Chaffron et al.). 
+
+Two files to download: 
+- gg_otus_allseqs.tgz
+- gg_allseqs2envo.tsv
 
 ## Bibliography
 
