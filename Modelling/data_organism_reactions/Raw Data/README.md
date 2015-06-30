@@ -21,7 +21,7 @@ The data was downloaded via the [Network-Based SEED API](http://blog.theseed.org
 
 * Via **RastShell** all reactions per model (this might take a while...): 
 ```perl
-svr_all_models|svr_reactions_in_model>all_reactions_in_table.txt
+svr_all_models|svr_reactions_in_model> table_with_reactions.txt
 ```  
 * Via **Rastshell** all genome names and genome IDs : 
 ```perl
